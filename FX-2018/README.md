@@ -47,4 +47,4 @@ Na cvičeniach budeme pracovať s Jupyter notebookom - browserovým editorom pre
 
 Pokiaľ sa vám práve otvoril browser s Jupyterom, gratulujem!
 
-V prípade akýchkoľvek problémov sa mi neváhajte odpísať na mail.
+V prípade akýchkoľvek problémov sa mi neváhajte ozvať na mail, všetko vyriešime :)
