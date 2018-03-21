@@ -18,16 +18,33 @@ Prvým krokom je nainštalovanie jazyka Python 3:
 
 `https://www.python.org/downloads/release/python-364/`
 
-Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás.
+Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás. Nainštalujte všetko podľa štandardného postupu
 
-#### Editor
+#### Editor - Atom
 
 Treba mať niečo, v čom budeme kód písať a spúšťať. Osobne mám veľmi dobré skúsenosti s editorom Atom:
 
 `https://atom.io/`
 
-Stiahnite a nainštalujte.
+Stiahnite a nainštalujte.  
+Po inštalácii otvorte, trochu sa zoznámte s prostredím.  
+Následne choďte do nastavení (napr skratkou `ctrl + ,`) a nainštalujte si balíčky:
 
-#### Editor 2
+* `autocomplete-python` (našepkávač pythonových príkazov)
+* `platformio-ide-terminal` (terminál priamo do Atomu)
 
-Na cvičeniach budeme pracovať s 
+Používanie si ukážeme na mieste.
+
+#### Editor 2 - Jupyter
+
+Na cvičeniach budeme pracovať s Jupyter notebookom - browserovým editorom pre Python. Nainštalujeme ho priamo z Pythonu, inak to veľmi nejde.
+
+1. Otvorte `Štart`
+2. Napíšte `cmd` a otvorte terminál
+3. Napíšte `python3 -m pip install --upgrade pip` (pre upgrade python managera)
+4. Napíšte `python3 -m pip install jupyter` (inštalácia jupyteru)
+5. Vyskúšajte `jupyter noteboook`
+
+Pokiaľ sa vám práve otvoril browser s Jupyterom, gratulujem!
+
+V prípade akýchkoľvek problémov sa mi neváhajte odpísať na mail.
