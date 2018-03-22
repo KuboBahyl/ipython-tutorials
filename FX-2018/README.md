@@ -45,7 +45,7 @@ Na cvičeniach budeme pracovať s Jupyter notebookom - browserovým editorom pre
 2. Napíšte `cmd` a otvorte terminál
 3. Napíšte `python -m pip install --upgrade pip` (pre upgrade python managera)
 4. Napíšte `python -m pip install jupyter` (inštalácia jupyteru)
-5. Vyskúšajte `jupyter noteboook`
+5. Vyskúšajte `jupyter notebook`
 
 Pokiaľ sa vám práve otvoril browser s Jupyterom, gratulujem!
 
