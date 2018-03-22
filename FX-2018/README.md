@@ -18,7 +18,9 @@ Prvým krokom je nainštalovanie jazyka Python 3:
 
 `https://www.python.org/downloads/release/python-364/`
 
-Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás. Nainštalujte všetko podľa štandardného postupu
+Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás.  
+
+Nainštalujte všetko podľa štandardného postupu. Počas inštalácie nezabudnite zakliknúť všetky "štvorčeky", ktoré to od vás bude pýtať. Najdôležitejším je "pridanie pythonu do cesty" (add to PATH).
 
 #### Editor - Atom
 
