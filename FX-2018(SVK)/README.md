@@ -4,11 +4,11 @@
 Ahojte,  
 moje meno je Kubo Bahyl a práve si čítate (možno váš prvý) open-source repozitár na svetovo známom Githube. Github je portfóliová platforma pre programátorov, prostredníctvom ktorého sa chvália svetu svojimi projektami, ktoré sú voľne dostupné.
 
-Zatiaľ toho v tomto *FX-2018* repozitári veľa nie je, postupne tu pridám všetky materiály, ktoré sa objavia na Jarnej Škole v súvislosti s programovaním.
+V tomto *FX-2018* repozitári sa nachádzajú všetky materiály (a ešte oveľa viac), ktoré sa objavili na Jarnej Škole v súvislosti s programovaním.
 
 ## Programovanie
 
-Na Jarnej Škole budeme programovať v jazyku Python 3. Je to jeden z najrozšírenejších interpretovaných jazykov vôbec a veľa odvetví (výskum, web development, machine learning,..) je na ňom postavených. Naučíme sa základné používanie, nejaké knižnice a management.
+Na Jarnej Škole sme programovali v jazyku Python 3. Je to jeden z najrozšírenejších interpretovaných jazykov vôbec a veľa odvetví (výskum, web development, machine learning,..) je na ňom postavených. Naučíme sa základné používanie, nejaké knižnice a management.
 
 ## Prostredie
 
@@ -18,7 +18,7 @@ Prvým krokom je nainštalovanie jazyka Python 3:
 
 `https://www.python.org/downloads/release/python-364/`
 
-Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás.  
+Väčšina z vás má zrejme Windows, sťahujte teda `Windows x86-64 executable installer`. Na stránke je aj možnosť pre Mac OS, Linuxáci nemusia riešiť nič, Python je natívne nainštalovaný za vás.
 
 Nainštalujte všetko podľa štandardného postupu. Počas inštalácie nezabudnite zakliknúť všetky "štvorčeky", ktoré to od vás bude pýtať. Najdôležitejším je "pridanie pythonu do cesty" (add to PATH).
 
